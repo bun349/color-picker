@@ -1,19 +1,14 @@
-# 🎈 Blank app template
+# Tugas 6 Artificial Intelligence Praktikum
 
-A simple Streamlit app template for you to modify!
+Nama: Bunga Adlyna Windasari
+NPM: 140810230068
+Kelas B
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## Unggah Gambar 
+![alt text](image.png)
 
-### How to run it on your own machine
+## 5 Warna Dominan dari Gambar
+![alt text](image-1.png)
 
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+## Klik Warna untuk Mendeteksi Warna itu pada Gambar
+![alt text](image-2.png)
