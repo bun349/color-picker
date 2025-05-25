@@ -1,7 +1,9 @@
 # Tugas 6 Artificial Intelligence Praktikum
 
 Nama: Bunga Adlyna Windasari
+
 NPM: 140810230068
+
 Kelas B
 
 ## Unggah Gambar 
